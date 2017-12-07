@@ -4578,3 +4578,223 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001168s ]
 INFO: [ app_end ] --END-- [ RunTime:0.001249s ]
 
+[ 2017-12-07T11:38:55+08:00 ] ::1 /rewards/index.php/Home/admin/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `user` WHERE ( identify=3 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: jsonData D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001124s ]
+
+[ 2017-12-07T11:39:06+08:00 ] ::1 /rewards/index.php/Home/admin/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0148s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `user` WHERE ( identify=3 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: jsonData D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001486s ]
+
+[ 2017-12-07T11:39:14+08:00 ] ::1 /rewards/index.php/Home/admin/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `user` WHERE ( identify=3 )  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined variable: jsonData D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002585s ]
+
+[ 2017-12-07T11:39:31+08:00 ] ::1 /rewards/index.php/Home/admin/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `user` WHERE ( identify=3 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: jsonData D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant number - assumed 'number' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\phpstudy\WWW\rewards\Application\Home\Controller\AdminController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001250s ]
+
