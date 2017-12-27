@@ -1,0 +1,64 @@
+<include file="Public:header" />、
+<script type="text/javascript" charset="utf-8">  
+	   window.UEDITOR_HOME_URL = "__PUBLIC__/Ueditor/";  
+	    $(document).ready(function () {  
+	      UE.getEditor('info', {  
+	      initialFrameHeight: 500,  
+	      initialFrameWidth: 800,  
+	      serverUrl: "{:U(MODULE_NAME.'/Teacher/save_info')}"  
+	    });  
+	  });    
+</script>
+<style type="text/css">
+	#info{
+		position:relative;z-index:0;
+	}
+</style>
+<body>
+  <div style="margin-top: 20px">
+  <form class="layui-form" method="post" action="{:U('Home/Teacher/addRewards')}">
+  <div class="layui-form-item">
+    <label class="layui-form-label">学号：</label>
+     <div class="layui-input-block">
+      <input name="title" lay-verify="title" autocomplete="off" placeholder="请输入标题" class="layui-input" type="text">
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">姓名：</label>
+    <div class="layui-input-inline">
+        <select name="name" lay-verify="required" lay-search="">
+          <option value="">直接选择或搜索选择</option>
+          <foreach name="userData" item="vo" >
+          		<option value="{$vo.name}">{$vo.name}</option>
+		  </foreach>
+        </select>
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">日期：</label>
+      <div class="layui-input-inline">
+        <input name="date" id="date" lay-verify="date" placeholder="年-月-日" autocomplete="off" class="layui-input" type="text">
+      </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">状态：</label>
+    <div class="layui-input-inline">
+         <select name="type" lay-filter="aihao">
+	        <option value=""></option>
+	        <option value="班主任通过">班主任通过</option>
+	        <option value="班主任不通过">班主任不通过</option>
+	      </select>
+    </div>
+  </div>
+<div class="layui-form-item">
+    <label class="layui-form-label">内容：</label>
+    <div class="layui-input-inline">
+  <textarea name="info" id="info" style="width:1024px;height:500px;"></textarea>  
+    </div>
+  </div>
+  <input type="submit" name="" value="提交" class="layui-btn layui-btn-warm" style="margin-left: 50px">
+</form>
+</div>
+  <include file="Public:footer" />
+</body>
+</html>
