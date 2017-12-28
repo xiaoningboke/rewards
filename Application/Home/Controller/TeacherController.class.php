@@ -178,65 +178,68 @@ class TeacherController extends Controller {
         $this->assign('userData',$userData);
         $this->display();
     }
-    public function addRewards(){
-        var_dump($_POST);
-    }
-
     /**
-     * 富文本编辑器
+     * 接收添加的奖惩信息
+     */
+    public function addRewards(){
+        $title = $_POST[title];
+        $name = $_POST[name];
+        $time = $_POST[time];
+        $type = $_POST[type];
+        $encouragemess = $_POST[info];
+        $mas = new MassageModel();
+        $s = $mas->addMassage($title,$name,$time,$type,$encouragemess);
+        if($s>0){
+              $this->success('添加成功',U('Home/Teacher/reward'));
+        }else{
+               $this->error('添加失败',U('Home/Teacher/reward'));
+        }
+    }
+    /**
+     * 修改页面
      * @return [type] [description]
      */
-    public function save_info(){  
-   $ueditor_config = json_decode(preg_replace("/\/\*[\s\S]+?\*\//", "",     file_get_contents("./Public/Ueditor/php/config.json")), true);  
-        $action = $_GET['action'];  
-        switch ($action) {  
-            case 'config':  
-                $result = json_encode($ueditor_config);  
-                break;  
-                /* 上传图片 */  
-            case 'uploadimage':  
-                /* 上传涂鸦 */  
-            case 'uploadscrawl':  
-                /* 上传视频 */  
-            case 'uploadvideo':  
-                /* 上传文件 */  
-            case 'uploadfile':  
-                $upload = new \Think\Upload();  
-                $upload->maxSize = 3145728;  
-                $upload->rootPath = './Public/Uploads/';  
-                $upload->exts = array('jpg', 'gif', 'png', 'jpeg');  
-                $info = $upload->upload();  
-                if (!$info) {  
-                    $result = json_encode(array(  
-                            'state' => $upload->getError(),  
-                    ));  
-                } else {  
-                    $url = __ROOT__ . "/Public/Uploads/" . $info["upfile"]["savepath"] . $info["upfile"]['savename'];  
-                    $result = json_encode(array(  
-                            'url' => $url,  
-                            'title' => htmlspecialchars($_POST['pictitle'], ENT_QUOTES),  
-                            'original' => $info["upfile"]['name'],  
-                            'state' => 'SUCCESS'  
-                    ));  
-                }  
-                break;  
-            default:  
-                $result = json_encode(array(  
-                'state' => '请求地址出错'  
-                        ));  
-                        break;  
-        }  
-        /* 输出结果 */  
-        if (isset($_GET["callback"])) {  
-            if (preg_match("/^[\w_]+$/", $_GET["callback"])) {  
-                echo htmlspecialchars($_GET["callback"]) . '(' . $result . ')';  
-            } else {  
-                echo json_encode(array(  
-                        'state' => 'callback参数不合法'  
-                ));  
-            }  
-        } else {  
-            echo $result;  
-        }  
-    }  
+    public function editReward(){
+        $id = $_GET[id];
+        $mas = new MassageModel();
+        $masData = $mas->findMassage($id);
+        $user = new UserModel();
+        $userData = $user->secstudent();
+        $this->assign('userData',$userData);
+        $this->assign('masData',$masData);
+        $this->display();
+    }
+    /**
+     * 接收修改的奖惩信息
+     * @return [type] [description]
+     */
+   public function editRewards(){
+        $id=$_POST[id];
+        $title=$_POST[title];
+        $name=$_POST[name];
+        $type=$_POST[type];
+        $time=$_POST[time];
+        $encouragemess=$_POST[info];
+        $user = new MassageModel();
+        $s=$user->editReward($id,$title,$name,$type,$time,$encouragemess);
+        if($s>0){
+              $this->success('更新成功',U('Home/Teacher/reward'));
+        }else{
+               $this->error('没有更新',U('Home/Teacher/reward'));
+        }
+   }
+   /**
+    * 删除一条奖惩信息
+    * @return [type] [description]
+    */
+   public function delReward(){
+        $id = $_GET[id];
+        $mas = new MassageModel();
+        $s=$mas->delReward($id);
+        if($s>0){
+              $this->success('删除成功',U('Home/Teacher/reward'));
+        }else{
+               $this->error('删除失败',U('Home/Teacher/reward'));
+        }
+   }
 }

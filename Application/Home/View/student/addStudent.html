@@ -1,0 +1,36 @@
+<include file="Public:header" />
+<body>
+  <div style="margin-top: 20px">
+  <form class="layui-form" method="post" action="{:U('Home/Teacher/addStudents')}">
+  <div class="layui-form-item">
+    <label class="layui-form-label">学号：</label>
+    <div class="layui-input-inline">
+      <input name="number" lay-verify="required" placeholder="请输入学号" autocomplete="off" class="layui-input" type="text">
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">姓名：</label>
+    <div class="layui-input-inline">
+        <input name="name" lay-verify="required" placeholder="请输入姓名" autocomplete="off" class="layui-input" type="text">
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">性别：</label>
+    <div class="layui-input-inline">
+    
+      <input name="sex" value="0" title="男" type="radio" checked="">&nbsp;&nbsp;&nbsp;
+      <input name="sex" value="1" title="女" type="radio"  checked="">
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">邮箱：</label>
+    <div class="layui-input-inline">
+         <input name="email" lay-verify="email" autocomplete="off" class="layui-input" type="text">
+    </div>
+  </div>
+  <input type="submit" name="" value="提交" class="layui-btn layui-btn-warm" style="margin-left: 50px">
+</form>
+</div>
+  <include file="Public:footer" />
+</body>
+</html>

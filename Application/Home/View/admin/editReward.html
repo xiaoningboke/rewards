@@ -1,0 +1,55 @@
+<include file="Public:header" />
+<style type="text/css">
+	#info{
+		position:relative;z-index:0;
+	}
+</style>
+<body>
+  <div style="margin-top: 20px">
+  <form class="layui-form" method="post" action="{:U('Home/Admin/editRewards')}">
+    <input type="hidden" name="id" value="{$masData.id}">
+  <div class="layui-form-item">
+    <label class="layui-form-label">标题：</label>
+     <div class="layui-input-block">
+      <input name="" lay-verify="title" autocomplete="off" placeholder="请输入标题" class="layui-input" type="text" value="{$masData.title}"  disabled="">
+      <input type="hidden" name="title" value="{$masData.title}">
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">姓名：</label>
+    <div class="layui-input-inline">
+        <input name="title" lay-verify="title" autocomplete="off" placeholder="请输入标题" class="layui-input" type="text" value="{$masData.name}" disabled="">
+      <input type="hidden" name="name" value="{$masData.name}">
+
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">日期：</label>
+      <div class="layui-input-inline">
+        <input name="time" id="date" lay-verify="date" placeholder="年-月-日" autocomplete="off" class="layui-input" type="text" value="{$masData.time}"  disabled="">
+      <input type="hidden" name="time" value="{$masData.time}">
+
+      </div>
+  </div>
+  <div class="layui-form-item">
+    <label class="layui-form-label">状态：</label>
+    <div class="layui-input-inline">
+         <select name="type" lay-filter="aihao">
+	        <option value=""></option>
+	        <option value="管理员通过">管理员通过</option>
+	        <option value="管理员不通过">管理员不通过</option>
+	      </select>
+    </div>
+  </div>
+<div class="layui-form-item">
+    <label class="layui-form-label">内容：</label>
+    <div class="layui-input-inline">
+  <textarea name="info" id="info" style="width:1024px;height:500px;"  >{$masData.encouragemess}</textarea>  
+    </div>
+  </div>
+  <input type="submit" name="" value="提交" class="layui-btn layui-btn-warm" style="margin-left: 50px">
+</form>
+</div>
+  <include file="Public:footer" />
+</body>
+</html>

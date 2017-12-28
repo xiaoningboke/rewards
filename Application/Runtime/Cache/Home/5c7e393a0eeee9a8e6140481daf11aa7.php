@@ -14,66 +14,39 @@
 	<script type="text/javascript" src="/rewards/Public/Ueditor/ueditor.all.min.js"></script>  
 	<script type="text/javascript" src="/rewards/Public/Ueditor/lang/zh-cn/zh-cn.js"></script>  
 	
-</head>、
-<script type="text/javascript" charset="utf-8">  
-	   window.UEDITOR_HOME_URL = "/rewards/Public/Ueditor/";  
-	    $(document).ready(function () {  
-	      UE.getEditor('info', {  
-	      initialFrameHeight: 500,  
-	      initialFrameWidth: 800,  
-	      serverUrl: "<?php echo U(MODULE_NAME.'/Teacher/save_info');?>"  
-	    });  
-	  });    
-</script>
-<style type="text/css">
-	#info{
-		position:relative;z-index:0;
-	}
-</style>
+</head>
 <body>
   <div style="margin-top: 20px">
-  <form class="layui-form" method="post" action="<?php echo U('Home/Teacher/addRewards');?>">
-  <div class="layui-form-item">
-    <label class="layui-form-label">学号：</label>
-     <div class="layui-input-block">
-      <input name="title" lay-verify="title" autocomplete="off" placeholder="请输入标题" class="layui-input" type="text">
-    </div>
-  </div>
-  <div class="layui-form-item">
-    <label class="layui-form-label">姓名：</label>
-    <div class="layui-input-inline">
-        <select name="name" lay-verify="required" lay-search="">
-          <option value="">直接选择或搜索选择</option>
-          <?php if(is_array($userData)): foreach($userData as $key=>$vo): ?><option value="<?php echo ($vo["name"]); ?>"><?php echo ($vo["name"]); ?></option><?php endforeach; endif; ?>
-        </select>
-    </div>
-  </div>
-  <div class="layui-form-item">
-    <label class="layui-form-label">日期：</label>
-      <div class="layui-input-inline">
-        <input name="time" id="date" lay-verify="date" placeholder="年-月-日" autocomplete="off" class="layui-input" type="text">
-      </div>
-  </div>
-  <div class="layui-form-item">
-    <label class="layui-form-label">状态：</label>
-    <div class="layui-input-inline">
-         <select name="type" lay-filter="aihao">
-	        <option value=""></option>
-	        <option value="班主任通过">班主任通过</option>
-	        <option value="班主任不通过">班主任不通过</option>
-	      </select>
-    </div>
-  </div>
-<div class="layui-form-item">
-    <label class="layui-form-label">内容：</label>
-    <div class="layui-input-inline">
-  <textarea name="info" id="info" style="width:1024px;height:500px;"></textarea>  
-    </div>
-  </div>
-  <input type="submit" name="" value="提交" class="layui-btn layui-btn-warm" style="margin-left: 50px">
-</form>
+    
+<div class="layui-form">
+  <table class="layui-table">
+    <colgroup>
+      <col width="300">
+      <col width="300">
+      <col width="300">
+      <col width="300">
+      <col>
+    </colgroup>
+    <thead>
+      <tr>
+        <th>姓名</th>
+        <th>时间</th>
+        <th>状态</th>
+        <th>操作</th>
+      </tr> 
+    </thead>
+    <tbody>
+      <?php if(is_array($masData)): foreach($masData as $key=>$vo): ?><tr>
+        <td><?php echo ($vo["name"]); ?></td>
+        <td><?php echo ($vo["time"]); ?></td>
+        <td><?php echo ($vo["type"]); ?></td>
+        <td> <a href="<?php echo U('Home/admin/xsStudent',array('id'=>$vo['id']));?>">查看</a> | <a href="<?php echo U('Home/admin/editReward',array('id'=>$vo['id']));?>">修改</a> | <a href="<?php echo U('Home/admin/delReward',array('id'=>$vo['id']));?>">删除</a></td>
+      </tr><?php endforeach; endif; ?>
+    </tbody>
+  </table>
 </div>
-      <script src="/rewards/Public/static/plugins/layui/layui.js"></script>
+</div>
+	    <script src="/rewards/Public/static/plugins/layui/layui.js"></script>
     <script>
         var message;
         layui.config({
@@ -148,5 +121,6 @@
   
 });
     </script>
+  
 </body>
 </html>

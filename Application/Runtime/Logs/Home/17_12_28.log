@@ -1,0 +1,2722 @@
+[ 2017-12-28T07:41:45+08:00 ] ::1 /rewards/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-12-28T07:42:00+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-12-28T07:42:03+08:00 ] ::1 /rewards/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-12-28T07:42:25+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-12-28T07:42:26+08:00 ] ::1 /rewards/index.php/Home/Teacher/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-12-28T07:42:27+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:42:27+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:42:28+08:00 ] ::1 /rewards/index.php/Home/Teacher/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+
+[ 2017-12-28T07:42:28+08:00 ] ::1 /rewards/index.php/Home/Teacher/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T07:42:29+08:00 ] ::1 /rewards/index.php/Home/Teacher/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T07:42:37+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-12-28T07:42:38+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:42:38+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:42:40+08:00 ] ::1 /rewards/index.php/Home/teacher/addReward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-12-28T07:42:40+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514418160332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-12-28T07:42:40+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:42:40+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:42:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/addRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-12-28T07:54:18+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-12-28T07:54:18+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:54:18+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:54:20+08:00 ] ::1 /rewards/index.php/Home/teacher/addReward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-12-28T07:54:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514418861089
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-12-28T07:54:21+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:54:21+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:54:30+08:00 ] ::1 /rewards/index.php/Home/Teacher/addRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: Think\Model:addMassage方法不存在！
+
+[ 2017-12-28T07:55:17+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-12-28T07:55:17+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:17+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:19+08:00 ] ::1 /rewards/index.php/Home/teacher/addReward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-12-28T07:55:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514418919544
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2017-12-28T07:55:19+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:19+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:33+08:00 ] ::1 /rewards/index.php/Home/Teacher/addRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-12-28T07:55:55+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-12-28T07:55:55+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:55+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:57+08:00 ] ::1 /rewards/index.php/Home/teacher/addReward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-12-28T07:55:57+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514418957882
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-12-28T07:55:57+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:55:58+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:05+08:00 ] ::1 /rewards/index.php/Home/Teacher/addRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-12-28T07:56:08+08:00 ] ::1 /rewards/index.php/Home/Teacher/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-12-28T07:56:08+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:08+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:46+08:00 ] ::1 /rewards/index.php/Home/teacher/addstudent.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-12-28T07:56:46+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:46+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:52+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-12-28T07:56:52+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:52+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:58+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-12-28T07:56:59+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:56:59+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:57:05+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-12-28T07:57:06+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:57:06+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:57:09+08:00 ] ::1 /rewards/index.php/Home/teacher/addReward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-12-28T07:57:09+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514419029446
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-28T07:57:09+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:57:09+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:57:18+08:00 ] ::1 /rewards/index.php/Home/Teacher/addRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-12-28T07:57:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-12-28T07:57:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T07:57:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:01:54+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-12-28T08:02:01+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-12-28T08:02:02+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:02:02+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:02:05+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-12-28T08:02:05+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514419325182
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-12-28T08:02:06+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:02:07+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:04:43+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-12-28T08:04:44+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514419484186
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-12-28T08:04:45+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:04:46+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:06:52+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-12-28T08:06:53+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514419613187
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-12-28T08:06:54+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:06:55+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:07:06+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-12-28T08:07:07+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514419627212
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-12-28T08:07:08+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:07:09+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:07:43+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-12-28T08:07:45+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:07:46+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:08:40+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-12-28T08:09:01+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-12-28T08:09:19+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-12-28T08:09:21+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:09:22+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:09:38+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-12-28T08:09:39+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:09:40+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:10:12+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-12-28T08:10:13+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:10:14+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:10:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-12-28T08:10:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:10:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:12:04+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-12-28T08:12:04+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:12:04+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:12:08+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-12-28T08:12:09+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:12:10+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:12:11+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001560s ]
+
+[ 2017-12-28T08:13:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/addRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-12-28T08:13:54+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-12-28T08:13:54+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:13:54+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:16:07+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-12-28T08:16:08+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:16:09+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:16:13+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: Think\Model:editReward方法不存在！
+
+[ 2017-12-28T08:16:33+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1} )' at line 1
+ [ SQL语句 ] : UPDATE `massage` SET `title`='1',`name`='2214',`time`='11',`encouragemess`='1111' WHERE ( id={1} )
+
+[ 2017-12-28T08:17:08+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:09+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:12+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-12-28T08:17:14+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:15+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:16+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-12-28T08:17:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2017-12-28T08:17:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:17:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:17:22+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-12-28T08:17:23+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:24+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:28+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-12-28T08:17:33+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-12-28T08:17:33+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:17:33+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:17:44+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-12-28T08:17:45+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:47+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:17:47+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:17:48+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:18:07+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-12-28T08:18:09+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:18:10+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:18:13+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-12-28T08:18:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-12-28T08:18:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:18:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:18:26+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-12-28T08:18:27+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:18:28+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:18:32+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2017-12-28T08:18:34+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2017-12-28T08:18:34+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:18:34+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:19:12+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-12-28T08:19:13+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:19:14+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:19:43+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-12-28T08:22:44+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-12-28T08:22:46+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-12-28T08:22:46+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:22:46+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:22:50+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-12-28T08:22:51+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:22:52+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T08:22:55+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-12-28T08:22:57+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-12-28T08:22:58+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:22:58+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:27:50+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-28T08:27:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:27:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:28:19+08:00 ] ::1 /rewards/index.php/Home/teacher/delReward/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-12-28T08:28:22+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2017-12-28T08:28:22+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:28:22+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:28:26+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-12-28T08:28:26+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:28:26+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:30:33+08:00 ] ::1 /rewards/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-12-28T08:30:40+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-12-28T08:30:43+08:00 ] ::1 /rewards/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-12-28T08:33:56+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+
+[ 2017-12-28T08:33:57+08:00 ] ::1 /rewards/index.php/Home/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-12-28T08:33:57+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:33:57+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:33:58+08:00 ] ::1 /rewards/index.php/Home/Admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-12-28T08:33:58+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T08:34:00+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-12-28T08:34:00+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T08:34:00+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:34:00+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:34:13+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-12-28T08:34:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-12-28T08:34:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:34:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:35:14+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-12-28T08:35:16+08:00 ] ::1 /rewards/index.php/Home/Teacher/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-12-28T08:35:16+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:35:16+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:36:15+08:00 ] ::1 /rewards/index.php/Home/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-12-28T08:36:15+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:36:16+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:36:17+08:00 ] ::1 /rewards/index.php/Home/Admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+
+[ 2017-12-28T08:36:17+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T08:36:18+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T08:36:50+08:00 ] ::1 /rewards/index.php/Home/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-12-28T08:36:51+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:36:51+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:36:52+08:00 ] ::1 /rewards/index.php/Home/Admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2017-12-28T08:36:52+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T08:36:53+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-12-28T08:36:53+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T08:36:54+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:36:54+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:03+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-12-28T08:37:03+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:03+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:13+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-12-28T08:37:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-12-28T08:37:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:15+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:34+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-12-28T08:37:34+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:34+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:41+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-12-28T08:37:42+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:37:42+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:38:16+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-12-28T08:38:17+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:38:17+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:38:33+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-12-28T08:38:33+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:38:33+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:38:57+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-12-28T08:38:58+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:38:58+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:39:05+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-12-28T08:39:07+08:00 ] ::1 /rewards/index.php/Home/Teacher/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-12-28T08:39:07+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:39:07+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:46:46+08:00 ] ::1 /rewards/index.php/Home/admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-28T08:46:46+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:46:46+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:56:20+08:00 ] ::1 /rewards/index.php/Home/admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-12-28T08:56:21+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:56:21+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:56:26+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-12-28T08:58:05+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:58:05+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:58:13+08:00 ] ::1 /rewards/index.php/Home/admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-12-28T08:58:13+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:58:13+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:58:17+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-12-28T08:58:20+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+
+[ 2017-12-28T08:58:20+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:58:20+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:59:28+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-12-28T08:59:28+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:59:28+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T08:59:32+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-12-28T09:08:11+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-12-28T09:08:27+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:29+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-12-28T09:08:29+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:29+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:31+08:00 ] ::1 /rewards/index.php/Home/admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-12-28T09:08:32+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002633s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:32+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:34+08:00 ] ::1 /rewards/index.php/Home/admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-12-28T09:08:35+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:35+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:08:39+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-12-28T09:09:18+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:18+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:24+08:00 ] ::1 /rewards/index.php/Home/admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-12-28T09:09:24+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:24+08:00 ] ::1 /rewards/index.php/Home/admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:28+08:00 ] ::1 /rewards/index.php/Home/Admin/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-12-28T09:09:30+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-12-28T09:09:30+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:30+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:44+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-12-28T09:09:45+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:45+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:49+08:00 ] ::1 /rewards/index.php/Home/Admin/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-12-28T09:09:49+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001644s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:49+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:56+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-12-28T09:09:57+08:00 ] ::1 /rewards/index.php/Home/Teacher/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-12-28T09:09:57+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:09:57+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:11:39+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-12-28T09:11:40+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:11:40+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:13:01+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-12-28T09:13:02+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:13:02+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:13:21+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-12-28T09:13:21+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:13:21+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:13:23+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-12-28T09:13:24+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:13:25+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:14:55+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-12-28T09:14:57+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:14:58+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:15:18+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-12-28T09:15:19+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:15:20+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:15:44+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2017-12-28T09:15:46+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:15:47+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:15:49+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-12-28T09:15:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-12-28T09:15:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:15:51+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:15:57+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-12-28T09:15:58+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:15:59+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:16:01+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:16:01+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:18:35+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:18:36+08:00 ] ::1 /rewards/index.php/Home/teacher/xsStudent/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:18:36+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:18:37+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:18:38+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:18:56+08:00 ] ::1 /rewards/index.php/Home/Teacher/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-12-28T09:18:58+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-12-28T09:18:58+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:18:58+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:19:02+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-12-28T09:19:03+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:04+08:00 ] ::1 /rewards/index.php/Home/teacher/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:08+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:19:08+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:19:10+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:11+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:22+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-12-28T09:19:23+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:25+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:51+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-12-28T09:19:53+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:54+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:19:54+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:19:54+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:13+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-12-28T09:20:14+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:20:15+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:20:16+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:16+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:18+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-12-28T09:20:18+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:18+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:21+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-12-28T09:20:22+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:20:23+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:20:30+08:00 ] ::1 /rewards/index.php/Home/Admin/editRewards.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-12-28T09:20:32+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2017-12-28T09:20:32+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:32+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:39+08:00 ] ::1 /rewards/index.php/Home/admin/delReward/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-12-28T09:20:41+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-12-28T09:20:41+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:41+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:45+08:00 ] ::1 /rewards/index.php/Home/admin/xsStudent/id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-12-28T09:20:46+08:00 ] ::1 /rewards/index.php/Home/admin/xsStudent/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002520s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:20:47+08:00 ] ::1 /rewards/index.php/Home/admin/xsStudent/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:20:47+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:20:48+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:06+08:00 ] ::1 /rewards/index.php/Home/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-12-28T09:21:06+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:06+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:06+08:00 ] ::1 /rewards/index.php/Home/Admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-12-28T09:21:06+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T09:21:06+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T09:21:28+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-12-28T09:21:28+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:28+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:30+08:00 ] ::1 /rewards/index.php/Home/admin/xsStudent/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-12-28T09:21:31+08:00 ] ::1 /rewards/index.php/Home/admin/xsStudent/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:21:32+08:00 ] ::1 /rewards/index.php/Home/admin/xsStudent/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:21:34+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-12-28T09:21:34+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:34+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:36+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-12-28T09:21:37+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:21:38+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:21:42+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-12-28T09:21:42+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:42+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:47+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-12-28T09:21:47+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:21:48+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:02+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-12-28T09:26:02+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:02+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:07+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-12-28T09:26:08+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:08+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:51+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-12-28T09:26:51+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:52+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:55+08:00 ] ::1 /rewards/index.php/Home/admin/delReward/id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-12-28T09:26:57+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-12-28T09:26:57+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:26:57+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:03+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-12-28T09:27:03+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:03+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:37+08:00 ] ::1 /rewards/index.php/Home/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-12-28T09:27:38+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:38+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:39+08:00 ] ::1 /rewards/index.php/Home/Admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-12-28T09:27:39+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T09:27:40+08:00 ] ::1 /rewards/index.php/Home/Admin/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+
+[ 2017-12-28T09:27:40+08:00 ] ::1 /rewards/index.php/Home/Admin/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T09:27:40+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:41+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:42+08:00 ] ::1 /rewards/index.php/Home/Admin/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001650s ]
+
+[ 2017-12-28T09:27:42+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:42+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:45+08:00 ] ::1 /rewards/index.php/Home/Admin/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-12-28T09:27:46+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:46+08:00 ] ::1 /rewards/index.php/Home/Admin/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:27:48+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-12-28T09:27:49+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:27:50+08:00 ] ::1 /rewards/index.php/Home/admin/editReward/id/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 1054:Unknown column 'build' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `massage` WHERE ( id=build ) LIMIT 1  
+
+[ 2017-12-28T09:28:14+08:00 ] ::1 /rewards/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-12-28T09:30:08+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2017-12-28T09:30:11+08:00 ] ::1 /rewards/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-12-28T09:32:26+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+
+[ 2017-12-28T09:32:29+08:00 ] ::1 /rewards/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-12-28T09:32:37+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+
+[ 2017-12-28T09:32:38+08:00 ] ::1 /rewards/index.php/Home/Student/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-12-28T09:32:39+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:32:39+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:32:39+08:00 ] ::1 /rewards/index.php/Home/Student/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-12-28T09:32:39+08:00 ] ::1 /rewards/index.php/Home/Student/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T09:32:39+08:00 ] ::1 /rewards/index.php/Home/Student/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-28T09:32:45+08:00 ] ::1 /rewards/index.php/Home/Student/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-12-28T09:32:46+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:32:46+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:34:07+08:00 ] ::1 /rewards/index.php/Home/Student/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-12-28T09:34:07+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:34:07+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:36:09+08:00 ] ::1 /rewards/index.php/Home/Student/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-12-28T09:36:09+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:36:09+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:36:13+08:00 ] ::1 /rewards/index.php/Home/Student/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-12-28T09:36:13+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:36:13+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:37:05+08:00 ] ::1 /rewards/index.php/Home/Student/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-12-28T09:37:05+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:37:05+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:40:31+08:00 ] ::1 /rewards/index.php/Home/Student/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载控制器:Student
+
+[ 2017-12-28T09:40:45+08:00 ] ::1 /rewards/index.php/Home/Student/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-12-28T09:40:46+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:40:46+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:40:57+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-12-28T09:41:02+08:00 ] ::1 /rewards/index.php/Home/Student/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-12-28T09:41:02+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:41:02+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:41:07+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-12-28T09:41:09+08:00 ] ::1 /rewards/index.php/Home/Teacher/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-12-28T09:41:09+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:41:09+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:41:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-12-28T09:41:20+08:00 ] ::1 /rewards/index.php/Home/Teacher/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-12-28T09:41:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:41:21+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:43:27+08:00 ] ::1 /rewards/index.php/Home/Student/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2017-12-28T09:43:27+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 非法操作:build
+
+[ 2017-12-28T09:43:27+08:00 ] ::1 /rewards/index.php/Home/Student/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 非法操作:build
+

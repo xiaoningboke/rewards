@@ -14,17 +14,7 @@
 	<script type="text/javascript" src="/rewards/Public/Ueditor/ueditor.all.min.js"></script>  
 	<script type="text/javascript" src="/rewards/Public/Ueditor/lang/zh-cn/zh-cn.js"></script>  
 	
-</head>、
-<script type="text/javascript" charset="utf-8">  
-	   window.UEDITOR_HOME_URL = "/rewards/Public/Ueditor/";  
-	    $(document).ready(function () {  
-	      UE.getEditor('info', {  
-	      initialFrameHeight: 500,  
-	      initialFrameWidth: 800,  
-	      serverUrl: "<?php echo U(MODULE_NAME.'/Teacher/save_info');?>"  
-	    });  
-	  });    
-</script>
+</head>
 <style type="text/css">
 	#info{
 		position:relative;z-index:0;
@@ -32,11 +22,12 @@
 </style>
 <body>
   <div style="margin-top: 20px">
-  <form class="layui-form" method="post" action="<?php echo U('Home/Teacher/addRewards');?>">
+  <form class="layui-form" method="post" action="<?php echo U('Home/Teacher/editRewards');?>">
+    <input type="hidden" name="id" value="<?php echo ($masData["id"]); ?>">
   <div class="layui-form-item">
-    <label class="layui-form-label">学号：</label>
+    <label class="layui-form-label">标题：</label>
      <div class="layui-input-block">
-      <input name="title" lay-verify="title" autocomplete="off" placeholder="请输入标题" class="layui-input" type="text">
+      <input name="title" lay-verify="title" autocomplete="off" placeholder="请输入标题" class="layui-input" type="text" value="<?php echo ($masData["title"]); ?>">
     </div>
   </div>
   <div class="layui-form-item">
@@ -51,7 +42,7 @@
   <div class="layui-form-item">
     <label class="layui-form-label">日期：</label>
       <div class="layui-input-inline">
-        <input name="time" id="date" lay-verify="date" placeholder="年-月-日" autocomplete="off" class="layui-input" type="text">
+        <input name="time" id="date" lay-verify="date" placeholder="年-月-日" autocomplete="off" class="layui-input" type="text" value="<?php echo ($masData["time"]); ?>">
       </div>
   </div>
   <div class="layui-form-item">
@@ -67,7 +58,7 @@
 <div class="layui-form-item">
     <label class="layui-form-label">内容：</label>
     <div class="layui-input-inline">
-  <textarea name="info" id="info" style="width:1024px;height:500px;"></textarea>  
+  <textarea name="info" id="info" style="width:1024px;height:500px;"><?php echo ($masData["encouragemess"]); ?></textarea>  
     </div>
   </div>
   <input type="submit" name="" value="提交" class="layui-btn layui-btn-warm" style="margin-left: 50px">

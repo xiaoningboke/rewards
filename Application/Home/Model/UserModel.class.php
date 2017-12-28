@@ -25,7 +25,6 @@ class UserModel extends Model {
     public function exitpersonal($id,$number,$name,$sex,$email){
         $user = M('User');
         $data['id'] = $id;
-        $data['number'] = $number;
         $data['name'] = $name;
         $data['sex'] = $sex;
         $data['email'] = $email;

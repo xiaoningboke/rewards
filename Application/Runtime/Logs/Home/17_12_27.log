@@ -5125,3 +5125,181 @@ INFO: [ app_init ] --START--
 INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
 
+[ 2017-12-27T20:48:00+08:00 ] ::1 /rewards/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-12-27T20:48:09+08:00 ] ::1 /rewards/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-12-27T20:48:10+08:00 ] ::1 /rewards/index.php/Home/Teacher/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-12-27T20:48:10+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:10+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:11+08:00 ] ::1 /rewards/index.php/Home/Teacher/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-12-27T20:48:11+08:00 ] ::1 /rewards/index.php/Home/Teacher/plugins/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-27T20:48:12+08:00 ] ::1 /rewards/index.php/Home/Teacher/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2017-12-27T20:48:12+08:00 ] ::1 /rewards/index.php/Home/Teacher/plugins/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 非法操作:plugins
+
+[ 2017-12-27T20:48:12+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:13+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:17+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpersonal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-12-27T20:48:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-12-27T20:48:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:19+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:20+08:00 ] ::1 /rewards/index.php/Home/Teacher/password.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-12-27T20:48:20+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:20+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001419s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:28+08:00 ] ::1 /rewards/index.php/Home/Teacher/exitpassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-12-27T20:48:32+08:00 ] ::1 /rewards/index.php/Home/Teacher/reward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-12-27T20:48:32+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:32+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:34+08:00 ] ::1 /rewards/index.php/Home/teacher/addReward.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+
+[ 2017-12-27T20:48:34+08:00 ] ::1 /rewards/index.php/Home/Teacher/save_info.html?action=config&&noCache=1514378914948
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-12-27T20:48:35+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:35+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:49+08:00 ] ::1 /rewards/index.php/Home/Teacher/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-12-27T20:48:49+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:49+08:00 ] ::1 /rewards/index.php/Home/Teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:50+08:00 ] ::1 /rewards/index.php/Home/teacher/addstudent.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-12-27T20:48:50+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 非法操作:build
+
+[ 2017-12-27T20:48:50+08:00 ] ::1 /rewards/index.php/Home/teacher/build/css/message.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 非法操作:build
+

@@ -3,15 +3,22 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>学生栏目</title>
+    <title>奖惩系统</title>
     <link rel="stylesheet" href="/rewards/Public/static/plugins/layui/css/layui.css" media="all">
     <link rel="stylesheet" type="text/css" href="http://cdn.bootcss.com/font-awesome/4.6.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/rewards/Public/static/build/css/app.css" media="all">
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="/rewards/Public/Ueditor/ueditor.config.js"></script>  
+	<script type="text/javascript" src="/rewards/Public/Ueditor/ueditor.all.min.js"></script>  
+	<script type="text/javascript" src="/rewards/Public/Ueditor/lang/zh-cn/zh-cn.js"></script>  
+	
 </head>
 <body>
     <div class="layui-layout layui-layout-admin kit-layout-admin">
         <div class="layui-header">
-            <div class="layui-logo">学生栏目</div>
+            <div class="layui-logo">教师栏目</div>
             <div class="layui-logo kit-logo-mobile">K</div>
             <ul class="layui-nav layui-layout-left kit-nav">
                 <!-- <li class="layui-nav-item"><a href="javascript:;" id="pay"><i class="fa fa-gratipay" aria-hidden="true"></i> 捐赠我</a></li> -->
@@ -47,18 +54,27 @@
                         <a class="" href="javascript:;"><i class="fa fa-plug" aria-hidden="true"></i><span> 个人信息</span></a>
                         <dl class="layui-nav-child">
                             <dd>
-                                <a href="javascript:;" kit-target data-options="{url:'test.html',icon:'&#xe6c6;',title:'信息修改',id:'1'}">
+                                <a href="javascript:;" kit-target data-options="{url:'personal.html',icon:'&#xe6c6;',title:'信息修改',id:'1'}">
                                     <i class="layui-icon">&#xe6c6;</i><span> 信息修改</span></a>
                             </dd>
                             <dd>
-                                <a href="javascript:;" data-url="form.html" data-icon="fa-user" data-title="密码修改" kit-target data-id='2'><i class="fa fa-user" aria-hidden="true"></i><span> 密码修改</span></a>
+                                <a href="javascript:;" data-url="password.html" data-icon="fa-user" data-title="密码修改" kit-target data-id='2'><i class="fa fa-user" aria-hidden="true"></i><span> 密码修改</span></a>
                             </dd>
                         </dl>
                     </li>
-                    <li class="layui-nav-item layui-nav-itemed">
+                    <li class="layui-nav-item">
                         <a href="javascript:;"><i class="fa fa-plug" aria-hidden="true"></i><span> 奖惩信息</span></a>
                         <dl class="layui-nav-child">
-                            <dd><a href="javascript:;" kit-target data-options="{url:'infomation.html',icon:'&#xe658;',title:'奖惩信息',id:'6'}"><i class="layui-icon">&#xe658;</i><span> 奖惩信息</span></a></dd>
+                            <dd><a href="javascript:;" kit-target data-options="{url:'reward.html',icon:'&#xe658;',title:'奖惩信息',id:'3'}"><i class="layui-icon">&#xe658;</i><span> 奖惩信息</span></a></dd>
+                        </dl>
+                    </li>
+                    <li class="layui-nav-item">
+                        <a class="" href="javascript:;"><i class="fa fa-plug" aria-hidden="true"></i><span>学生信息</span></a>
+                        <dl class="layui-nav-child">
+                            <dd>
+                                <a href="javascript:;" kit-target data-options="{url:'student.html',icon:'&#xe6c6;',title:'学生信息',id:'4'}">
+                                    <i class="layui-icon">&#xe6c6;</i><span> 学生信息</span></a>
+                            </dd>
                         </dl>
                     </li>
                 </ul>
@@ -76,11 +92,7 @@
 
         </div>
     </div>
-    <script type="text/javascript">
-        var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-        document.write(unescape("%3Cspan id='cnzz_stat_icon_1264021086'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1264021086%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script src="/rewards/Public/static/plugins/layui/layui.js"></script>
+        <script src="/rewards/Public/static/plugins/layui/layui.js"></script>
     <script>
         var message;
         layui.config({
@@ -105,6 +117,55 @@
                 });
             });
         });
+
+        layui.use(['form', 'layedit', 'laydate'], function(){
+  var form = layui.form
+  ,layer = layui.layer
+  ,layedit = layui.layedit
+  ,laydate = layui.laydate;
+  
+  //日期
+  laydate.render({
+    elem: '#date'
+  });
+  laydate.render({
+    elem: '#date1'
+  });
+  
+  //创建一个编辑器
+  var editIndex = layedit.build('LAY_demo_editor');
+ 
+  //自定义验证规则
+  form.verify({
+    title: function(value){
+      if(value.length < 5){
+        return '标题至少得5个字符啊';
+      }
+    }
+    ,pass: [/(.+){6,12}$/, '密码必须6到12位']
+    ,content: function(value){
+      layedit.sync(editIndex);
+    }
+  });
+  
+  //监听指定开关
+  form.on('switch(switchTest)', function(data){
+    layer.msg('开关checked：'+ (this.checked ? 'true' : 'false'), {
+      offset: '6px'
+    });
+    layer.tips('温馨提示：请注意开关状态的文字可以随意定义，而不仅仅是ON|OFF', data.othis)
+  });
+  
+  //监听提交
+  form.on('submit(demo1)', function(data){
+    layer.alert(JSON.stringify(data.field), {
+      title: '最终的提交信息'
+    })
+    return false;
+  });
+  
+  
+});
     </script>
 </body>
 
