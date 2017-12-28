@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	height:900px;
+	width:1100px;
+	margin:0 auto;
+	}
+table,tr,td{
+	padding:0px;
+	}
+table{
+	height:800px;
+	width:100%;
+	}
+#top{
+	height:400;
+	width:550px;
+	}
+#topleft{
+	height:240px;
+	width:540px;
+	}
+#topright{
+	height:240px;
+	width:530px;
+	text-align:right;
+	}
+#middle{
+	height:300px;
+	width:100%;
+	}
+#middleleft{
+	height:200px;
+	width:540px;
+	text-indent:2em;
+	}
+#middleright{
+	height:200px;
+	width:530px;
+	text-indent:2em;
+	}

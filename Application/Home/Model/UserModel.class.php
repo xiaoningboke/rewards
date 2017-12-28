@@ -22,7 +22,7 @@ class UserModel extends Model {
      * @param  [type] $email [description]
      * @return [type]        [description]
      */
-    public function exitpersonal($id,$number,$name,$sex,$email){
+    public function exitpersonal($id,$name,$sex,$email){
         $user = M('User');
         $data['id'] = $id;
         $data['name'] = $name;

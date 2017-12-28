@@ -15,16 +15,6 @@
 	<script type="text/javascript" src="/rewards/Public/Ueditor/lang/zh-cn/zh-cn.js"></script>  
 	
 </head>、
-<script type="text/javascript" charset="utf-8">  
-	   window.UEDITOR_HOME_URL = "/rewards/Public/Ueditor/";  
-	    $(document).ready(function () {  
-	      UE.getEditor('info', {  
-	      initialFrameHeight: 500,  
-	      initialFrameWidth: 800,  
-	      serverUrl: "<?php echo U(MODULE_NAME.'/Teacher/save_info');?>"  
-	    });  
-	  });    
-</script>
 <style type="text/css">
 	#info{
 		position:relative;z-index:0;

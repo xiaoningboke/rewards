@@ -104,7 +104,7 @@ class TeacherController extends Controller {
         $sex=$_POST[sex];
         $email=$_POST[email];
         $user = new UserModel();
-        $s=$user->exitpersonal($id,$number,$name,$sex,$email);
+        $s=$user->exitpersonal($id,$name,$sex,$email);
         if($s>0){
               $this->success('更新成功',U('Home/Teacher/student'));
         }else{

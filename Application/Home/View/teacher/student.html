@@ -15,7 +15,6 @@
       <tr>
         <th>学号</th>
         <th>姓名</th>
-        <th>性别</th>
         <th>邮箱</th>
         <th>操作</th>
       </tr> 
@@ -25,13 +24,7 @@
       <tr>
         <td>{$vo.number}</td>
         <td>{$vo.name}</td>
-        <td>
-          <!-- 
-          <input type="hidden" name="" id="sexs" value="{$vo.sex}">
-          <script type="text/javascript">
-            
-          </script> -->
-        </td>
+        
         <td>{$vo.email}</td>
         <td><a href="{:U('Home/teacher/editStudent',array('id'=>$vo['id']))}">修改</a> | <a href="{:U('Home/teacher/delStudent',array('id'=>$vo['id']))}">删除</a></td>
       </tr>

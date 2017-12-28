@@ -17,7 +17,7 @@
 </head>
 <body>
   <div style="margin-top: 20px">
-    <a href="<?php echo U('Home/teacher/addReward');?>" class="layui-btn layui-btn-warm">添加</a href="">
+    
 <div class="layui-form">
   <table class="layui-table">
     <colgroup>
@@ -40,7 +40,7 @@
         <td><?php echo ($vo["name"]); ?></td>
         <td><?php echo ($vo["time"]); ?></td>
         <td><?php echo ($vo["type"]); ?></td>
-        <td> <a href="<?php echo U('Home/teacher/xsStudent',array('id'=>$vo['id']));?>">查看</a> | <a href="<?php echo U('Home/teacher/editReward',array('id'=>$vo['id']));?>">修改</a> | <a href="<?php echo U('Home/teacher/delReward',array('id'=>$vo['id']));?>">删除</a></td>
+        <td> <a href="<?php echo U('Home/student/xsStudent',array('id'=>$vo['id']));?>">查看</a></td>
       </tr><?php endforeach; endif; ?>
     </tbody>
   </table>

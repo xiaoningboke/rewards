@@ -31,7 +31,6 @@
       <tr>
         <th>学号</th>
         <th>姓名</th>
-        <th>性别</th>
         <th>邮箱</th>
         <th>操作</th>
       </tr> 
@@ -40,13 +39,7 @@
       <?php if(is_array($studentData)): foreach($studentData as $key=>$vo): ?><tr>
         <td><?php echo ($vo["number"]); ?></td>
         <td><?php echo ($vo["name"]); ?></td>
-        <td>
-          <!-- 
-          <input type="hidden" name="" id="sexs" value="<?php echo ($vo["sex"]); ?>">
-          <script type="text/javascript">
-            
-          </script> -->
-        </td>
+        
         <td><?php echo ($vo["email"]); ?></td>
         <td><a href="<?php echo U('Home/teacher/editStudent',array('id'=>$vo['id']));?>">修改</a> | <a href="<?php echo U('Home/teacher/delStudent',array('id'=>$vo['id']));?>">删除</a></td>
       </tr><?php endforeach; endif; ?>

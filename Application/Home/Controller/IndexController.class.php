@@ -48,4 +48,9 @@ class IndexController extends Controller {
             $this->success("登录成功",U('Home/Student/index'));
         }
     }
+    public function exits(){
+        session('name',null);
+        session('identify',null);
+        $this->success("退出",U('Home/index/index'));
+  }
 }

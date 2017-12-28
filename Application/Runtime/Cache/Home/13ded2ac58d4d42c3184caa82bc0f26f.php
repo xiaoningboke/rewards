@@ -17,41 +17,42 @@
 </head>
 <body>
   <div style="margin-top: 20px">
-  <form class="layui-form" method="post" action="<?php echo U('Home/student/exitpersonal');?>">
-    <input type="hidden" name="id" value="<?php echo ($personalData["id"]); ?>">
-	<div class="layui-form-item">
-    <label class="layui-form-label">账号：</label>
-    <div class="layui-input-inline">
-      <input name="number" lay-verify="required" placeholder="请输入" autocomplete="off" class="layui-input" type="text" value="<?php echo ($personalData["number"]); ?>" disabled="">
-    </div>
-    <label class="layui-form-label">姓名：</label>
-    <div class="layui-input-inline">
-      <input name="name" lay-verify="required" placeholder="请输入" autocomplete="off" class="layui-input" type="text" value="<?php echo ($personalData["name"]); ?>">
-    </div>
-  </div>
-  <div class="layui-form-item">
-    <label class="layui-form-label">性别：</label>
-    <input type="hidden" name="" id="kinds" value="<?php echo ($personalData["sex"]); ?>">
-    
-    <div class="layui-input-inline">
-      <input name="sex" value="0" title="男" type="radio" id="one" checked="">&nbsp;&nbsp;&nbsp;
-      <input name="sex" value="1" title="女" type="radio" id="two" checked="">
-    </div>
-    <script type="text/javascript">
-        var s = document.getElementById("kinds").value;
-          if(s==0){
-              document.getElementById("one").checked="checked";
-        }else{
-              document.getElementById("two").checked="checked";
-        }
-    </script>
-    <label class="layui-form-label">邮箱：</label>
-    <div class="layui-input-inline">
-       <input name="email" lay-verify="email" autocomplete="off" class="layui-input" type="text" value="<?php echo ($personalData["email"]); ?>">
-    </div>
-  </div>
-  <input type="submit" name="" value="提交" class="layui-btn layui-btn-warm" style="margin-left: 50px">
-</form>
+    <a href="<?php echo U('Home/teacher/addstudent');?>" class="layui-btn layui-btn-warm">添加</a href="">
+<div class="layui-form">
+  <table class="layui-table">
+    <colgroup>
+      <col width="200">
+      <col width="200">
+      <col width="200">
+      <col width="200">
+      <col>
+    </colgroup>
+    <thead>
+      <tr>
+        <th>学号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>邮箱</th>
+        <th>操作</th>
+      </tr> 
+    </thead>
+    <tbody>
+      <?php if(is_array($studentData)): foreach($studentData as $key=>$vo): ?><tr>
+        <td><?php echo ($vo["number"]); ?></td>
+        <td><?php echo ($vo["name"]); ?></td>
+        <td>
+          <!-- 
+          <input type="hidden" name="" id="sexs" value="<?php echo ($vo["sex"]); ?>">
+          <script type="text/javascript">
+            
+          </script> -->
+        </td>
+        <td><?php echo ($vo["email"]); ?></td>
+        <td><a href="<?php echo U('Home/teacher/editStudent',array('id'=>$vo['id']));?>">修改</a> | <a href="<?php echo U('Home/teacher/delStudent',array('id'=>$vo['id']));?>">删除</a></td>
+      </tr><?php endforeach; endif; ?>
+    </tbody>
+  </table>
+</div>
 </div>
 	    <script src="/rewards/Public/static/plugins/layui/layui.js"></script>
     <script>

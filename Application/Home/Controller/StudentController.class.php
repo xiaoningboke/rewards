@@ -30,7 +30,6 @@ class StudentController extends Controller {
      * @return [type] [description]
      */
     public function exitpersonal(){
-        var_dump($_POST[number]);
         $number = $_POST[number];
         $id = $_POST[id];
         $name = $_POST[name];
@@ -80,92 +79,16 @@ class StudentController extends Controller {
      */
     public function reward(){
         $mas = new MassageModel();
-        $masData = $mas->tReward();
+        $masData = $mas->selMassage();
         $this->assign("masData",$masData);
         $this->display();
     }
-    /**
-     * 查询一条同学的奖惩信息
-     * @return [type] [description]
-     */
-    public function xsStudent(){
+     public function xsStudent(){
         $id = $_GET[id];
         $mas = new MassageModel();
         $masData = $mas->findMassage($id);
         $this->assign("masData",$masData);
         $this->display();
     }
-    /**
-     * 展示添加学生奖惩信息
-     */
-    public function addReward(){
-        $user = new UserModel();
-        $userData = $user->secstudent();
-        $this->assign('userData',$userData);
-        $this->display();
-    }
-    /**
-     * 接收添加的奖惩信息
-     */
-    public function addRewards(){
-        $title = $_POST[title];
-        $name = $_POST[name];
-        $time = $_POST[time];
-        $type = $_POST[type];
-        $encouragemess = $_POST[info];
-        $mas = new MassageModel();
-        $s = $mas->addMassage($title,$name,$time,$type,$encouragemess);
-        if($s>0){
-              $this->success('添加成功',U('Home/Admin/reward'));
-        }else{
-               $this->error('添加失败',U('Home/Admin/reward'));
-        }
-    }
-    /**
-     * 修改页面
-     * @return [type] [description]
-     */
-    public function editReward(){
-        $id = $_GET[id];
-        $mas = new MassageModel();
-        $masData = $mas->findMassage($id);
-        $user = new UserModel();
-        $userData = $user->secstudent();
-        $this->assign('userData',$userData);
-        $this->assign('masData',$masData);
-        $this->display();
-    }
-    /**
-     * 接收修改的奖惩信息
-     * @return [type] [description]
-     */
-   public function editRewards(){
-        $id=$_POST[id];
-        $title=$_POST[title];
-        $name=$_POST[name];
-        $type=$_POST[type];
-        $time=$_POST[time];
-        $encouragemess=$_POST[info];
-        $user = new MassageModel();
-        $s=$user->editReward($id,$title,$name,$type,$time,$encouragemess);
-        if($s>0){
-              $this->success('更新成功',U('Home/Admin/reward'));
-        }else{
-               $this->error('没有更新',U('Home/Admin/reward'));
-        }
-   }
-   /**
-    * 删除一条奖惩信息
-    * @return [type] [description]
-    */
-   public function delReward(){
-        $id = $_GET[id];
-        $mas = new MassageModel();
-        $s=$mas->delReward($id);
-        if($s>0){
-              $this->success('删除成功',U('Home/Admin/reward'));
-        }else{
-               $this->error('删除失败',U('Home/Admin/reward'));
-        }
-   }
+    
 }

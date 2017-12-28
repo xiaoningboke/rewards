@@ -18,7 +18,7 @@
 <body>
     <div class="layui-layout layui-layout-admin kit-layout-admin">
         <div class="layui-header">
-            <div class="layui-logo">教师栏目</div>
+            <div class="layui-logo">学生栏目</div>
             <div class="layui-logo kit-logo-mobile">K</div>
             <ul class="layui-nav layui-layout-left kit-nav">
                 <!-- <li class="layui-nav-item"><a href="javascript:;" id="pay"><i class="fa fa-gratipay" aria-hidden="true"></i> 捐赠我</a></li> -->
@@ -34,14 +34,14 @@
             <ul class="layui-nav layui-layout-right kit-nav">
                 <li class="layui-nav-item">
                     <a href="javascript:;">
-                        <img src="http://m.zhengjinfan.cn/images/0.jpg" class="layui-nav-img"> Van
+                        <img src="http://m.zhengjinfan.cn/images/0.jpg" class="layui-nav-img"> 学生
                     </a>
                     <!-- <dl class="layui-nav-child">
                         <dd><a href="javascript:;">基本资料</a></dd>
                         <dd><a href="javascript:;">安全设置</a></dd>
                     </dl> -->
                 </li>
-                <li class="layui-nav-item"><a href="javascript:;"><i class="fa fa-sign-out" aria-hidden="true"></i> 注销</a></li>
+                <li class="layui-nav-item"><a href="<?php echo U('Home/Index/exits');?>" aria-hidden="true"></i>注销</a></li>
             </ul>
         </div>
 
@@ -68,15 +68,7 @@
                             <dd><a href="javascript:;" kit-target data-options="{url:'reward.html',icon:'&#xe658;',title:'奖惩信息',id:'3'}"><i class="layui-icon">&#xe658;</i><span> 奖惩信息</span></a></dd>
                         </dl>
                     </li>
-                    <li class="layui-nav-item">
-                        <a class="" href="javascript:;"><i class="fa fa-plug" aria-hidden="true"></i><span>学生信息</span></a>
-                        <dl class="layui-nav-child">
-                            <dd>
-                                <a href="javascript:;" kit-target data-options="{url:'student.html',icon:'&#xe6c6;',title:'学生信息',id:'4'}">
-                                    <i class="layui-icon">&#xe6c6;</i><span> 学生信息</span></a>
-                            </dd>
-                        </dl>
-                    </li>
+                    
                 </ul>
             </div>
         </div>
